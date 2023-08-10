@@ -23,5 +23,9 @@ public class WeddingParty implements Party {
 		
 		return 20;
 	}
+	public void namesss() {
+		System.out.println("hhhahahhaha");
+		
+	}
 
 }
