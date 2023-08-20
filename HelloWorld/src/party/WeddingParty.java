@@ -4,7 +4,7 @@ public class WeddingParty implements Party {
 
 	@Override
 	public void wish(String name) {
-	System.out.println("Happy Marriage" + name);
+	System.out.println("Happy Marriage to ..." + name);
 
 	}
 	public void wish(String groomName , String brideName) {
